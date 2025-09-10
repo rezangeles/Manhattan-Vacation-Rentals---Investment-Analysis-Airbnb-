@@ -23,7 +23,7 @@ selection, sizing, and pricing for the next investment cycle.
 - Lower East Side, Hell's Kitchen, and Harlem ranked among the top neighborhoods by review volume.
 - Manhattan's Popular size bedroom in order: 1 BR, 2 BR, and studios, with Harlem renter's choosing 1 BR by demand and Midtown leaning towards studios
 - Revenue analysis of the 30-day window showed Listing ID 49946551 as the top earner at $29,940; $359K annual estimate (not adjusted by season)
-- **These results indicate that concentrating on the leading neighborhoods with their preferred unit size offers the strongest balance of
+  **These results indicate that concentrating on the leading neighborhoods with their preferred unit size offers the strongest balance of
 occupancy and revenue potential.
 
 **Recommendations:**
@@ -33,7 +33,14 @@ occupancy and revenue potential.
 - Use the revenue_earned benchmark to set pricing; top listings must use a dynamic pricing strategy tied to observed booking frequency
 - Allocate capital toward 1 BR units first, then supplement with 2 BR units where demand supports higher ADRs (average daily rate), and put a 
 limit on studio outside Midtown
-- **Refresh the 30-day revenue rollup monthly; monitor shifts and changes in rankings and bedroom popularity
+  **Refresh the 30-day revenue rollup monthly; monitor shifts and changes in rankings and bedroom popularity.
+
+**Future Improvements:**
+- Automate data updates -connect to live rental listings or Airbnb data to keep the analysis current.
+- Add predictive modeling -forecast occupancy rates, rental income, or price trends over time.
+- Include neighborhood-level insights -analyze factors such as walkability, proximity to touristy spots/amenities/popular restaurants or poocket areas
+- Integrate seasonal analsysis -compare similar listings in the area of identify pricing and demand trends.
+- Visualize risk factors -identify challenges on property maintenance costs, vacancy rates, or zoning restrictions.
   
 
 <img width="663" height="709" alt="image" src="https://github.com/user-attachments/assets/1f34b809-81f5-4593-bd92-a975a0ce2c4a" />
