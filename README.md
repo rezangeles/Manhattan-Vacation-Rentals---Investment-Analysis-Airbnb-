@@ -38,8 +38,8 @@ limit on studio outside Midtown
 **Future Improvements:**
 - Automate data updates -connect to live rental listings or Airbnb data to keep the analysis current.
 - Add predictive modeling -forecast occupancy rates, rental income, or price trends over time.
-- Include neighborhood-level insights -analyze factors such as walkability, proximity to touristy spots/amenities/popular restaurants or poocket areas
-- Integrate seasonal analsysis -compare similar listings in the area of identify pricing and demand trends.
+- Include neighborhood-level insights -analyze factors such as walkability, safety, proximity to touristy spots/amenities/popular restaurants or trendy pocket areas based on demographics
+- Integrate seasonal analsysis -compare similar listings in the area to identify pricing and demand trends.
 - Visualize risk factors -identify challenges on property maintenance costs, vacancy rates, or zoning restrictions.
   
 
