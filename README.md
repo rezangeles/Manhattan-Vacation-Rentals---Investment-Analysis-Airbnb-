@@ -23,6 +23,7 @@ selection, sizing, and pricing for the next investment cycle.
 - Lower East Side, Hell's Kitchen, and Harlem ranked among the top neighborhoods by review volume.
 - Manhattan's Popular size bedroom in order: 1 BR, 2 BR, and studios, with Harlem renter's choosing 1 BR by demand and Midtown leaning towards studios
 - Revenue analysis of the 30-day window showed Listing ID 49946551 as the top earner at $29,940; $359K annual estimate (not adjusted by season)
+
   **These results indicate that concentrating on the leading neighborhoods with their preferred unit size offers the strongest balance of
 occupancy and revenue potential.
 
